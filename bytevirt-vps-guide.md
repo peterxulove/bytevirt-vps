@@ -156,11 +156,11 @@ ByteVirt 在这一点上做得比同类商家透明：**每条线路都给了测
 
 | 档位 | 规格 | 流量 / 带宽 | IP | 价格（折合月付 / 可选周期） | 库存 | 购买 |
 | --- | --- | --- | --- | --- | --- | --- |
-| VPS-512-KVM-Premium-LA | 1C / 512M / 15G | 1T @ 500 Mbps | 1×IPv4 + /64 | $2.50/月半年付 $16.88 / 年付 $30 | 售罄 | 售罄 |
-| VPS-1024-KVM-Premium-LA | 1C / 1G / 20G | 2T @ 500 Mbps | 1×IPv4 + /64 | $3.33/月月付 $4 / 年付 $40 | 售罄 | 售罄 |
-| VPS-2048-KVM-Premium-LA | 2C / 2G / 20G | 4T @ 800 Mbps | 1×IPv4 + /64 | $6.67/月月付 $8 / 年付 $80 | 售罄 | 售罄 |
-| VPS-2048-KVM-Premium-LA-2 | 2C / 2G / 40G | 4T @ 800 Mbps | 1×IPv4 + /64 | $8.33/月月付 $10 / 年付 $100 | 售罄 | 售罄 |
-| VPS-3072-KVM-Premium-LA | 3C / 3G / 30G | 6T @ 800 Mbps | 1×IPv4 + /64 | $10.00/月月付 $12 / 年付 $120 | 售罄 | 售罄 |
+| VPS-512-KVM-Premium-LA | 1C / 512M / 15G | 1T @ 500 Mbps | 1×IPv4 + /64 | $2.50/月半年付 $16.88 / 年付 $30 | 补货中 | **[购买入口](https://bytevirt.com/store/la4837)** |
+| VPS-1024-KVM-Premium-LA | 1C / 1G / 20G | 2T @ 500 Mbps | 1×IPv4 + /64 | $3.33/月月付 $4 / 年付 $40 | 补货中 | **[购买入口](https://bytevirt.com/store/la4837)** |
+| VPS-2048-KVM-Premium-LA | 2C / 2G / 20G | 4T @ 800 Mbps | 1×IPv4 + /64 | $6.67/月月付 $8 / 年付 $80 | 补货中 | **[购买入口](https://bytevirt.com/store/la4837)** |
+| VPS-2048-KVM-Premium-LA-2 | 2C / 2G / 40G | 4T @ 800 Mbps | 1×IPv4 + /64 | $8.33/月月付 $10 / 年付 $100 | 补货中 | **[购买入口](https://bytevirt.com/store/la4837)** |
+| VPS-3072-KVM-Premium-LA | 3C / 3G / 30G | 6T @ 800 Mbps | 1×IPv4 + /64 | $10.00/月月付 $12 / 年付 $120 | 补货中 | **[购买入口](https://bytevirt.com/store/la4837)** |
 | VPS-4096-KVM-Premium-LA | 4C / 4G / 40G | 8T @ 800 Mbps | 1×IPv4 + /64 | $13.33/月月付 $16 / 年付 $160 | 较少 | **[购买入口](https://bytevirt.com/aff.php?aff=1931&pid=146)** |
 | VPS-8192-KVM-Premium-LA | 4C / 8G / 50G | 8T @ 800 Mbps | 1×IPv4 + /64 | $17.50/月月付 $21 / 年付 $210 | 较少 | **[购买入口](https://bytevirt.com/aff.php?aff=1931&pid=195)** |
 | VPS-4096-KVM-Premium-LA-150G40T | 4C / 4G / 150G | 40T @ 1000 Mbps | 1×IPv4 + /64 | $66.00/月月付 $66 | 较少 | **[购买入口](https://bytevirt.com/aff.php?aff=1931&pid=154)** |
@@ -236,7 +236,7 @@ ByteVirt 在这一点上做得比同类商家透明：**每条线路都给了测
 | VPS-2048-KVM-CN2 GIA-LA | 2C / 2G / 40G | 2T @ 500 Mbps | 1×IPv4 + /64 | $16.67/月月付 $24 / 季付 $60 / 年付 $200 | 充足 | **[购买入口](https://bytevirt.com/aff.php?aff=1931&pid=290)** |
 | VPS-3072-KVM-CN2 GIA-LA | 3C / 3G / 60G | 3T @ 500 Mbps | 1×IPv4 + /64 | $36.30/月月付 $36.3 | 充足 | **[购买入口](https://bytevirt.com/aff.php?aff=1931&pid=291)** |
 | VPS-4096-KVM-CN2 GIA-LA | 4C / 4G / 100G | 4T @ 500 Mbps | 1×IPv4 + /64 | $48.40/月月付 $48.4 | 充足 | **[购买入口](https://bytevirt.com/aff.php?aff=1931&pid=292)** |
-| VPS-4C8G100G1T-KVM-CN2 GIA-LA | 4C / 8G / 100G | 1T @ 500 Mbps | 1×IPv4 + /64 | $27.50/月月付 $27.5 | 售罄 | 售罄 |
+| VPS-4C8G100G1T-KVM-CN2 GIA-LA | 4C / 8G / 100G | 1T @ 500 Mbps | 1×IPv4 + /64 | $27.50/月月付 $27.5 | 补货中 | **[购买入口](https://bytevirt.com/store/la-china-optimized-cn2-gia)** |
 | VPS-8C16G100G10T-KVM-CN2 GIA-LA | 8C / 16G / 100G | 10T @ 500 Mbps | 1×IPv4 + /64 | $242.00/月月付 $242 | 较少 | **[购买入口](https://bytevirt.com/aff.php?aff=1931&pid=296)** |
 
 社区来源[【NQ】Bytevirt LA-China Optimized CN2 GIA](https://www.nodeseek.com/post-857327-1)　·　[【快讯】ByteVirt LA-GIA 已补货](https://www.nodeseek.com/post-758676-1)
@@ -314,7 +314,7 @@ ByteVirt 洛杉矶的主力大陆优化档：IPv4 走「电联 9929 + 移动 CMI
 **[购买入口](https://bytevirt.com/aff.php?aff=1931&pid=324)**
 [官网分类页](https://bytevirt.com/store/jp-isp-vps)
 
-### 9台湾 ISP 原生 ISP有实测库存售罄
+### 9台湾 ISP 原生 ISP有实测库存补货中
 
 中国台湾 台北 · **HiNet（动态 IP）** · 流量计费　起价 **$27.50/月**（年付 $330）
 
@@ -326,10 +326,10 @@ ByteVirt 洛杉矶的主力大陆优化档：IPv4 走「电联 9929 + 移动 CMI
 
 | 档位 | 规格 | 流量 / 带宽 | IP | 价格（折合月付 / 可选周期） | 库存 | 购买 |
 | --- | --- | --- | --- | --- | --- | --- |
-| VPS-1024-KVM-Hinet-D-TW | 1C / 1G / 30G | 20T @ 304 Mbps | 1×IPv4 + /64 | $27.50/月月付 $30 / 半年付 $175 / 年付 $330 | 售罄 | 售罄 |
-| VPS-2048-KVM-Hinet-D-TW | 2C / 2G / 40G | 100T @ 500 Mbps | 1×IPv4 + /64 | $41.67/月月付 $50 / 半年付 $275 / 年付 $500 | 售罄 | 售罄 |
-| VPS-2C4G-KVM-Hinet-D-TW | 2C / 4G / 30G | 20T @ 304 Mbps | 1×IPv4 + /64 | $32.50/月月付 $36 / 半年付 $210 / 年付 $390 | 售罄 | 售罄 |
-| VPS-4096-KVM-Hinet-D-TW | 4C / 4G / 80G | 200T @ 800 Mbps | 1×IPv4 + /64 | $66.67/月月付 $100 / 半年付 $500 / 年付 $800 | 售罄 | 售罄 |
+| VPS-1024-KVM-Hinet-D-TW | 1C / 1G / 30G | 20T @ 304 Mbps | 1×IPv4 + /64 | $27.50/月月付 $30 / 半年付 $175 / 年付 $330 | 补货中 | **[购买入口](https://bytevirt.com/store/tw-isp-vps)** |
+| VPS-2048-KVM-Hinet-D-TW | 2C / 2G / 40G | 100T @ 500 Mbps | 1×IPv4 + /64 | $41.67/月月付 $50 / 半年付 $275 / 年付 $500 | 补货中 | **[购买入口](https://bytevirt.com/store/tw-isp-vps)** |
+| VPS-2C4G-KVM-Hinet-D-TW | 2C / 4G / 30G | 20T @ 304 Mbps | 1×IPv4 + /64 | $32.50/月月付 $36 / 半年付 $210 / 年付 $390 | 补货中 | **[购买入口](https://bytevirt.com/store/tw-isp-vps)** |
+| VPS-4096-KVM-Hinet-D-TW | 4C / 4G / 80G | 200T @ 800 Mbps | 1×IPv4 + /64 | $66.67/月月付 $100 / 半年付 $500 / 年付 $800 | 补货中 | **[购买入口](https://bytevirt.com/store/tw-isp-vps)** |
 
 社区来源[bytevirt的hinet怎么抖的这么厉害](https://www.nodeseek.com/post-807417-1)　·　[【测试留档】ByteVirt - NAT-512-KVM-DYNAMICIP 台湾彰化HINET，3.5](https://www.nodeseek.com/post-784291-1)　·　[【慢讯】ByteVirt 台湾HiNet D补货了](https://www.nodeseek.com/post-847282-1)
 
@@ -412,7 +412,7 @@ ByteVirt 洛杉矶的主力大陆优化档：IPv4 走「电联 9929 + 移动 CMI
 **[购买入口](https://bytevirt.com/aff.php?aff=1931&pid=235)**
 [官网分类页](https://bytevirt.com/store/vps-hk-kvm)
 
-### 13美国 标准 标准线路有测试地址库存售罄
+### 13美国 标准 标准线路有测试地址库存补货中
 
 美国（洛杉矶 / 盐湖城） · **国际线路（无大陆优化）** · 流量计费　起价 **$1.00/月**（半年付 $6）
 
@@ -424,11 +424,11 @@ ByteVirt 洛杉矶的主力大陆优化档：IPv4 走「电联 9929 + 移动 CMI
 
 | 档位 | 规格 | 流量 / 带宽 | IP | 价格（折合月付 / 可选周期） | 库存 | 购买 |
 | --- | --- | --- | --- | --- | --- | --- |
-| VPS-512-KVM-US | 1C / 512M / 5G | 1.5T @ 500 Mbps | 1×IPv4 + /64 | $1.00/月半年付 $6 / 年付 $12 | 售罄 | 售罄 |
-| VPS-1024-KVM-US | 1C / 1G / 10G | 2.5T @ 500 Mbps | 1×IPv4 + /64 | $1.67/月季付 $6 / 年付 $20 | 售罄 | 售罄 |
-| VPS-2048-KVM-US | 2C / 2G / 20G | 5T @ 500 Mbps | 1×IPv4 + /64 | $2.08/月月付 $2.5 / 年付 $25 | 售罄 | 售罄 |
-| VPS-4096-KVM-US | 2C / 4G / 40G | 15T @ 800 Mbps | 1×IPv4 + /64 | $3.33/月月付 $4 / 年付 $40 | 售罄 | 售罄 |
-| VPS-8192-KVM-US | 4C / 8G / 80G | 15T @ 1000 Mbps | 1×IPv4 + /64 | $6.67/月月付 $8 / 年付 $80 | 售罄 | 售罄 |
+| VPS-512-KVM-US | 1C / 512M / 5G | 1.5T @ 500 Mbps | 1×IPv4 + /64 | $1.00/月半年付 $6 / 年付 $12 | 补货中 | **[购买入口](https://bytevirt.com/store/vps-us-kvm)** |
+| VPS-1024-KVM-US | 1C / 1G / 10G | 2.5T @ 500 Mbps | 1×IPv4 + /64 | $1.67/月季付 $6 / 年付 $20 | 补货中 | **[购买入口](https://bytevirt.com/store/vps-us-kvm)** |
+| VPS-2048-KVM-US | 2C / 2G / 20G | 5T @ 500 Mbps | 1×IPv4 + /64 | $2.08/月月付 $2.5 / 年付 $25 | 补货中 | **[购买入口](https://bytevirt.com/store/vps-us-kvm)** |
+| VPS-4096-KVM-US | 2C / 4G / 40G | 15T @ 800 Mbps | 1×IPv4 + /64 | $3.33/月月付 $4 / 年付 $40 | 补货中 | **[购买入口](https://bytevirt.com/store/vps-us-kvm)** |
+| VPS-8192-KVM-US | 4C / 8G / 80G | 15T @ 1000 Mbps | 1×IPv4 + /64 | $6.67/月月付 $8 / 年付 $80 | 补货中 | **[购买入口](https://bytevirt.com/store/vps-us-kvm)** |
 
 社区来源[【NQ留档】bytevirt VPS-512-KVM-US 14刀一年](https://www.nodeseek.com/post-757390-1)　·　[发一下我刚买的bytevirt小鸡](https://www.nodeseek.com/post-796621-1)　·　[【已开奖，请勿再回复】抽一台Bytevirt的盐湖城 VPS-512-KVM-US](https://www.nodeseek.com/post-823374-1)
 
@@ -447,10 +447,10 @@ ByteVirt 洛杉矶的主力大陆优化档：IPv4 走「电联 9929 + 移动 CMI
 
 | 档位 | 规格 | 流量 / 带宽 | IP | 价格（折合月付 / 可选周期） | 库存 | 购买 |
 | --- | --- | --- | --- | --- | --- | --- |
-| VPS-512-KVM-TR | 1C / 512M / 6G | 750G @ 500 Mbps | 1×IPv4 + /64 | $1.17/月年付 $14 | 售罄 | 售罄 |
-| VPS-1024-KVM-TR | 1C / 1G / 12G | 1.5T @ 500 Mbps | 1×IPv4 + /64 | $1.67/月年付 $20 | 售罄 | 售罄 |
+| VPS-512-KVM-TR | 1C / 512M / 6G | 750G @ 500 Mbps | 1×IPv4 + /64 | $1.17/月年付 $14 | 补货中 | **[购买入口](https://bytevirt.com/store/vps-tr-kvm)** |
+| VPS-1024-KVM-TR | 1C / 1G / 12G | 1.5T @ 500 Mbps | 1×IPv4 + /64 | $1.67/月年付 $20 | 补货中 | **[购买入口](https://bytevirt.com/store/vps-tr-kvm)** |
 | VPS-2048-KVM-TR | 2C / 2G / 24G | 3T @ 600 Mbps | 1×IPv4 + /64 | $2.08/月年付 $25 | 较少 | **[购买入口](https://bytevirt.com/aff.php?aff=1931&pid=122)** |
-| VPS-4096-KVM-TR-20T | 4C / 4G / 50G | 20T @ 600 Mbps | 1×IPv4 + /64 | $12.50/月月付 $15 / 年付 $150 | 售罄 | 售罄 |
+| VPS-4096-KVM-TR-20T | 4C / 4G / 50G | 20T @ 600 Mbps | 1×IPv4 + /64 | $12.50/月月付 $15 / 年付 $150 | 补货中 | **[购买入口](https://bytevirt.com/store/vps-tr-kvm)** |
 
 **[购买入口](https://bytevirt.com/aff.php?aff=1931)**
 [官网分类页](https://bytevirt.com/store/vps-tr-kvm)
@@ -475,7 +475,7 @@ ByteVirt 洛杉矶的主力大陆优化档：IPv4 走「电联 9929 + 移动 CMI
 | VPS-2C4G60G100T-KVM-JP | 2C / 2G / 60G | 1T @ 500 Mbps | 1×IPv4 + /64 | $110.00/月月付 $110 | 较少 | **[购买入口](https://bytevirt.com/aff.php?aff=1931&pid=317)** |
 | VPS-8192-KVM-JP | 4C / 8G / 60G | 2.5T @ 800 Mbps | 1×IPv4 + /64 | $10.00/月月付 $12 / 年付 $120 | 充足 | **[购买入口](https://bytevirt.com/aff.php?aff=1931&pid=75)** |
 | VPS-16384-KVM-JP | 8C / 16G / 120G | 5T @ 1000 Mbps | 1×IPv4 + /64 | $25.00/月月付 $30 / 年付 $300 | 较少 | **[购买入口](https://bytevirt.com/aff.php?aff=1931&pid=335)** |
-| 定制-4C8G100G10T-JP-KVM | 4C / 8G / 100G | 10T @ 800 Mbps | 1×IPv4 + /64 | $40.00/月月付 $40 | 售罄 | 售罄 |
+| 定制-4C8G100G10T-JP-KVM | 4C / 8G / 100G | 10T @ 800 Mbps | 1×IPv4 + /64 | $40.00/月月付 $40 | 补货中 | **[购买入口](https://bytevirt.com/store/vps-jp-kvm)** |
 | VPS-4C8G100G20T-JP-KVM | 4C / 8G / 100G | 20T @ 800 Mbps | 1×IPv4 + /64 | $80.00/月月付 $80 | 较少 | **[购买入口](https://bytevirt.com/aff.php?aff=1931&pid=333)** |
 
 社区来源[[NQ] ByteVirt 日本东京Premium VPS-512-KVM-Premium-JP](https://www.nodeseek.com/post-749987-1)　·　[【留档】【只测不评】ByteVirt VPS-512-KVM-Premium-JP](https://www.nodeseek.com/post-900712-1)　·　[[NQ]bytevirt VPS-512-KVM-Premium-JP](https://www.nodeseek.com/post-767574-1)
@@ -556,7 +556,7 @@ ByteVirt 洛杉矶的主力大陆优化档：IPv4 走「电联 9929 + 移动 CMI
 **[购买入口](https://bytevirt.com/aff.php?aff=1931&pid=267)**
 [官网分类页](https://bytevirt.com/store/vps-hk-kvm-2)
 
-### 19美国 高性能 标准线路有测试地址库存售罄
+### 19美国 高性能 标准线路有测试地址库存补货中
 
 美国 盐湖城 · **国际线路（无大陆优化）** · 流量计费　起价 **$2.00/月**（年付 $24）
 
@@ -568,13 +568,13 @@ ByteVirt 洛杉矶的主力大陆优化档：IPv4 走「电联 9929 + 移动 CMI
 
 | 档位 | 规格 | 流量 / 带宽 | IP | 价格（折合月付 / 可选周期） | 库存 | 购买 |
 | --- | --- | --- | --- | --- | --- | --- |
-| VPS-PERFORMANCE-1024-KVM-US | 1C / 1G / 20G | 2.5T @ 500 Mbps | 1×IPv4 + /64 | $2.00/月年付 $24 | 售罄 | 售罄 |
-| VPS-PERFORMANCE-2048-KVM-US | 2C / 2G / 30G | 5T @ 1000 Mbps | 1×IPv4 + /64 | $3.33/月月付 $4 / 半年付 $24 / 年付 $40 | 售罄 | 售罄 |
-| VPS-PERFORMANCE-4096-KVM-US | 2C / 4G / 50G | 15T @ 1000 Mbps | 1×IPv4 + /64 | $5.00/月月付 $6 / 年付 $60 | 售罄 | 售罄 |
-| VPS-PERFORMANCE-8192-KVM-US-2 | 4C / 8G / 200G | 12T @ 1000 Mbps | 1×IPv4 + /64 | $12.00/月月付 $12 | 售罄 | 售罄 |
-| VPS-PERFORMANCE-8192-KVM-US | 8C / 8G / 100G | 20T @ 1000 Mbps | 1×IPv4 + /64 | $16.67/月月付 $20 / 年付 $200 | 售罄 | 售罄 |
-| VPS-PERFORMANCE-4C-16G-KVM-US | 4C / 16G / 200G | 12T @ 1000 Mbps | 1×IPv4 + /64 | $20.00/月月付 $20 | 售罄 | 售罄 |
-| VPS-PERFORMANCE-8C-16G-KVM-US | 8C / 16G / 100G | 20T @ 1000 Mbps | 1×IPv4 + /64 | $23.33/月月付 $28 / 年付 $280 | 售罄 | 售罄 |
+| VPS-PERFORMANCE-1024-KVM-US | 1C / 1G / 20G | 2.5T @ 500 Mbps | 1×IPv4 + /64 | $2.00/月年付 $24 | 补货中 | **[购买入口](https://bytevirt.com/store/vps-performance-us-kvm)** |
+| VPS-PERFORMANCE-2048-KVM-US | 2C / 2G / 30G | 5T @ 1000 Mbps | 1×IPv4 + /64 | $3.33/月月付 $4 / 半年付 $24 / 年付 $40 | 补货中 | **[购买入口](https://bytevirt.com/store/vps-performance-us-kvm)** |
+| VPS-PERFORMANCE-4096-KVM-US | 2C / 4G / 50G | 15T @ 1000 Mbps | 1×IPv4 + /64 | $5.00/月月付 $6 / 年付 $60 | 补货中 | **[购买入口](https://bytevirt.com/store/vps-performance-us-kvm)** |
+| VPS-PERFORMANCE-8192-KVM-US-2 | 4C / 8G / 200G | 12T @ 1000 Mbps | 1×IPv4 + /64 | $12.00/月月付 $12 | 补货中 | **[购买入口](https://bytevirt.com/store/vps-performance-us-kvm)** |
+| VPS-PERFORMANCE-8192-KVM-US | 8C / 8G / 100G | 20T @ 1000 Mbps | 1×IPv4 + /64 | $16.67/月月付 $20 / 年付 $200 | 补货中 | **[购买入口](https://bytevirt.com/store/vps-performance-us-kvm)** |
+| VPS-PERFORMANCE-4C-16G-KVM-US | 4C / 16G / 200G | 12T @ 1000 Mbps | 1×IPv4 + /64 | $20.00/月月付 $20 | 补货中 | **[购买入口](https://bytevirt.com/store/vps-performance-us-kvm)** |
+| VPS-PERFORMANCE-8C-16G-KVM-US | 8C / 16G / 100G | 20T @ 1000 Mbps | 1×IPv4 + /64 | $23.33/月月付 $28 / 年付 $280 | 补货中 | **[购买入口](https://bytevirt.com/store/vps-performance-us-kvm)** |
 
 **[购买入口](https://bytevirt.com/aff.php?aff=1931)**
 [官网分类页](https://bytevirt.com/store/vps-performance-us-kvm)
@@ -628,6 +628,8 @@ ByteVirt 洛杉矶的主力大陆优化档：IPv4 走「电联 9929 + 移动 CMI
 ## 选购注意事项
 
 > **1. 价格与库存是抓取时点快照**，随时会变（ByteVirt 调价、补货都比较频繁）。下单前以官网实时信息为准。
+>   
+> 「库存」列的三态含义：**充足** / **较少** / **补货中**（补货中 = 官网当前无现货，购买按钮会跳到该产品线的分类页，可以在那里关注补货）。
 
 > **2. 「大陆优化」不等于三网都优化**。东京大陆优化走的是软银 + IIJ 混合，对移动友好、对联通不友好；
 > > 新加坡大陆优化也是移动优先。买之前先确认自己是什么运营商。
